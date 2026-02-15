@@ -1,0 +1,41 @@
+commit eda49f0e3b213ba9777339275ed0ef74bb3680b5
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Mon Feb 16 00:14:04 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit 5fac8f7b7ced116d47938650a2efd03830a0b0c2
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Mon Feb 16 00:13:18 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit 6af1915385633dd3e24170a47a5644f18f1ff68c
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Mon Feb 16 00:08:04 2026 +0300
+
+    Удалена платформа видеоконференций
+
+commit 6994bf09708c011b5c444517ebc49d7865f24e1e
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Mon Feb 16 00:04:17 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit 737e39e843e40f10249bf1b6e0177d978e578d2c
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Mon Feb 16 00:03:45 2026 +0300
+
+    Добавлено направление подготовки (amend)
+
+commit 8d89336b43d0cd43950cb0d53b5d274c6292c713
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Sun Feb 15 23:59:03 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 8a6dd017803cafc530d18623958c8dac3cf10b91
+Author: Strelnikova_D_A <diona631@gmail.com>
+Date:   Sun Feb 15 23:00:50 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
