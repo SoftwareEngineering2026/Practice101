@@ -1,0 +1,63 @@
+commit 25dcf3c713ed592ec2561a2d403312d25763ea44
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:39:49 2026 +0300
+
+    Закоммичены забытые файлы
+
+commit 827e60d7aee5ddfd3ffa03a640c9849058917582
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:36:51 2026 +0300
+
+    Добавлена запись в readme.txt
+
+commit 1fcf7bfe961f699fc50a89f61edf1f31177a9de1
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:36:06 2026 +0300
+
+    Добавлен КачаловМА.txt с историей коммитов
+
+commit f4024af76506722c3ae521e59cc25ac738e4d0d8
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:29:14 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit 52e6b6f59a0e06118d39e7029d3d433068707f31
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:13:56 2026 +0300
+
+    Revert ""Добавлена платформа видеоконференций""
+
+    This reverts commit 588a92fb761173480ef1b654758d95416fa55f05.
+
+commit 588a92fb761173480ef1b654758d95416fa55f05
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:13:45 2026 +0300
+
+    "Добавлена платформа видеоконференций"
+
+commit a08527d1eb262af42f0aa9d162ad8e326c19e04c
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:11:59 2026 +0300
+
+    "Добавлена оценка текущего статуса"
+
+commit 0b7ce189b9d52f1f057b2f73cb0285b97b5a50ad
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:11:37 2026 +0300
+
+    Revert ""Добавлена оценка текущего статуса""
+
+    This reverts commit bef22fceb915a3e5d6584ba7f0b5d0ec3d0f0163.
+
+commit bef22fceb915a3e5d6584ba7f0b5d0ec3d0f0163
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:07:10 2026 +0300
+
+    "Добавлена оценка текущего статуса"
+
+commit da36d2dcb4342feabdf2772fcadd4b1f0fbed8de
+Author: m-kac <m-kachalov@mail.ru>
+Date:   Sun Feb 15 12:05:30 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
