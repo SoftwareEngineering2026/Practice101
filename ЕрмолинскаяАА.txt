@@ -1,0 +1,85 @@
+commit d27920bbe99573e6455b6d9cbb5aaf2fe208918d (HEAD -> main)
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 22:03:09 2026 +0300
+
+    удалены лишние файлы
+
+
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 22:00:27 2026 +0300
+
+    добавлен файл с логом гита
+
+commit 96114df8dc9f13076155bc8c7980a4ec1d3f5859 (HEAD -> main, origin/main)
+Merge: cf69dfa fe51b6f
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 21:36:08 2026 +0300
+
+    Merge branch 'PRERELEASE' into dev
+
+commit fe51b6ffbe92307e25aa06e7aad36945b9ace254 (origin/PRERELEASE, PRERELEASE)
+Merge: 4c0ea65 f80e1d9
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 21:35:07 2026 +0300
+
+    Merge remote-tracking branch 'origin/PRERELEASE' into PRERELEASE
+
+commit cf69dfac7f34d4d2f9ba7186c047340ec4ddb163
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 21:18:23 2026 +0300
+
+    Добавлена запись в readme.txt
+
+commit 4c0ea65ed9fbb4a5e9ee3ea68bb8a1e4042b2338
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 21:01:23 2026 +0300
+
+    Добавлен prerelease.txt в ветке PRERELEASE
+
+commit f80e1d955cd4ff8227b87edb215ef47aa1a43f73
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 21:01:23 2026 +0300
+
+    Добавлен prerelease.txt в ветке PRERELEASE
+
+commit fc16a77c9cf76856cf2040ff864394332734608e (origin/TEST, TEST)
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:54:32 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit 8102f13abfe016155885fa8dccdeb640704af031
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:52:46 2026 +0300
+
+    изменен gitignore
+
+commit 1abe623972c9c62ea192a07b2950100a4b5299de
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:51:10 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit 8913902b186113a572a4ed3ec58c64d598c91c86
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:48:25 2026 +0300
+
+    Удалена платформа
+
+commit 15c9e5bec2d2e98aa0b9a151111426fc13baaf33
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:43:42 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit 84b41796da62ca9e1c628624e97ad674332c7daf
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:42:00 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 1164d5b52d95afc819dd90e176f847755a1e3cf5
+Author: Alexandra <linda.joon@yandex.ru>
+Date:   Mon Feb 16 00:36:38 2026 +0300
+
+    Измененн базовый readme
