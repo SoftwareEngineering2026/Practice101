@@ -1,0 +1,37 @@
+commit 9d048be03b0fde0ce0008970aa42408412cf421a
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 16:07:31 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit c5a51c64664b95d0acd28e85f8499aa2253a54d8
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 16:06:51 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit ff9114ec8f7a8abb9cc79153628d1beff5f8cb8d
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 16:05:18 2026 +0300
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit 40cf8d350cfe41f6ada69293057489a889f80d2c.
+
+commit 40cf8d350cfe41f6ada69293057489a889f80d2c
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 16:03:54 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit d52f239203c4345bed47bf7d0feec048c04f35e3
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 16:01:12 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 76d18c964eb0fea57a298e312f97d35fe5888937
+Author: igrushekradi <igrushekradi@gmail.com>
+Date:   Thu Mar 26 15:31:02 2026 +0300
+
+    Создал базовый ридми с группой и ФИО

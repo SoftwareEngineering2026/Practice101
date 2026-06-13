@@ -1,0 +1,43 @@
+commit 59020584164025ec7cd98a8a5c9b2fd28084be36
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:59:33 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit 04eecc4ac9a4e8437cad12c8df5f5006436f6faf
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:58:57 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit b03de9e779f342a91eb002c1997ea310b79dcc55
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:55:37 2026 +0300
+
+    Revert "Добавлена платформа видеоконференций"
+    
+    This reverts commit 974f446c99c0552b55569269eebce287e923b38c.
+
+commit 974f446c99c0552b55569269eebce287e923b38c
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:54:43 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit 4d49e8022b39f6df14015192dc731f2fb0a765c8
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:54:00 2026 +0300
+
+    Добавлена оценка текущего статуса и название предмета
+
+commit 6a591d45dd6ece4bf06cb24c429e183d17444631
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:49:38 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 01dd956aa68b7fe58fa4225ed4e534d848fa1fcc
+Author: Artem <www.artem832@gmail.com>
+Date:   Fri Mar 13 18:48:35 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
