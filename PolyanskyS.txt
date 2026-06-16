@@ -1,0 +1,10 @@
+commit baa6bf2034f6cae7d0915139e3e8c59b998a702b
+Author: StephanP <stephan@906082@gmail.com>
+Date:   Tue Jun 16 16:58:26 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
+commit baa6bf2034f6cae7d0915139e3e8c59b998a702b
+Author: StephanP <stephan@906082@gmail.com>
+Date:   Tue Jun 16 16:58:26 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
