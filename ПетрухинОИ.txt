@@ -1,0 +1,41 @@
+commit a989638f7447be1791ca06ca069e13bbdb51fb51
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:31:19 2026 +0300
+
+    Добавлен test.txt в ветке TEST
+
+commit 8c56ad23a999bc9a3d05ba57e1bfbe2af4189024
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:30:10 2026 +0300
+
+    Добавлен .gitignore для временных файлов
+
+commit cd5185a2df0b8a4dc116f05868362711b1905586
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:25:14 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit a34ebe5803fc9fe17808cdbc25c7bd5662ecc372
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:23:31 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit b3a756b1cde4d625c4f601132d2e379de57f4f7a
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:18:59 2026 +0300
+
+    Добавлена платформа видеоконференций
+
+commit 33293b65985a74f327d120414db2350775785549
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:06:45 2026 +0300
+
+    Добавлена оценка текущего статуса
+
+commit 039fe4e7758a50c9ec3104c719027f13e8463f23
+Author: Петрухин О.И. <petrukhinoleg03@gmail.com>
+Date:   Sun Sep 27 14:01:47 2026 +0300
+
+    Добавлен базовый readme с ФИО и группой
